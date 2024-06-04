@@ -1,0 +1,4 @@
+repository "SnakeRPG@epicwater@cloud"
+  path "/"
+    br "/main"
+    co "/main"
